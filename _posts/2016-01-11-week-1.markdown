@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Week 1: How has it only been 7 days?"
+date:   2016-01-11 15:45:56 -0800
+categories: ruby programming learning
+---
+This past week has gone by in a blur. I’ve already learned many things, and not all of them were code.
+
+I’ve learned how much I enjoy pair programming. I was a little apprehensive going in; I was worried about how well I would be able to work with others remotely, and I was concerned about sharing all the mistakes I made with someone else. However, in practice, it turned out to be an amazing working and learning experience. While I made mistakes, so did others, and having two pairs of eyes on the code helped catch them more quickly. Being able to bounce ideas back and forth also helped me learn better, as I was constantly explaining how I thought or listening to understand someone else. Finally, I found myself improving my communication and teamwork skills.
+
+That’s not to downplay the Ruby skills I learned as well. I’ve already felt myself improving and becoming more confident. I still make mistakes sometimes, but I don’t make the same mistakes twice, and that counts as learning to me. I can look at the task I was set on the first day — building a rock-paper-scissors game — and laugh at myself for thinking it was hard. I can see now that my methods were far too large and could easily be refactored, and that my nested conditionals were terribly inelegant. I wish I had more time to go back and improve all my code, but we’re moving quite briskly ahead.
+
+I’ve spent a lot of the weekend resting. I don’t want to burn myself out, after all. This period of relaxation has actually helped the concepts I’ve learned to really sink in. I now feel confident about writing basic command line games, as well as testing them using RSpec. I’m set to learn about algorithms and data structures this upcoming week, among other things, and I can hardly wait.

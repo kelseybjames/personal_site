@@ -1,0 +1,52 @@
+# User Settings | Edit these according to your site
+
+title: Kelsey James
+email: kelseybjames@gmail.com
+author: Kelsey James
+
+description: > # this means to ignore newlines until "baseurl:"
+  Full stack web developer, passionate about learning new technologies.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://kelseybjames.com" # the base hostname & protocol for your site
+twitter_username: kelseybjames
+github_username:  kelseybjames
+
+permalink:          /:year/:title.html
+
+paginate: 4
+paginate_path: "/page/:num"
+comments: true
+
+about_footer: true
+short_bio: >
+    Full stack web developer, passionate about learning new technologies.
+profile_picture: http://i.imgur.com/E8XlseN.jpg
+
+google_analytics: true
+tracking_id: # Your google analytics tracking id
+
+# Build settings | Do not edit anything below this
+markdown: kramdown
+
+gems:
+  - jekyll-paginate
+
+sass:
+  style:            compressed
+  sass_dir:         _sass
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
